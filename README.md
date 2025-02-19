@@ -42,3 +42,6 @@ Kubernetes is an open-source container orchestration tool that automates the dep
 
 - **Health Checks**  
   Kubernetes uses liveness and readiness probes to monitor and maintain the health of containers.
+
+- **Disaster recovery**
+  backup and restore the latest state after the recovery
