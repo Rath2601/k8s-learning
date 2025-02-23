@@ -45,3 +45,16 @@ Kubernetes is an open-source container orchestration tool that automates the dep
 
 - **Disaster recovery**
   backup and restore the latest state after the recovery
+
+## Container tools
+
+* list of container tools:
+    * Podman – A daemonless, rootless container engine with a Docker-compatible CLI.
+    * containerd – A lightweight container runtime that powers Docker and supports Kubernetes natively.
+    * CRI-O – A Kubernetes-native container runtime implementing the Container Runtime Interface (CRI).
+    * LXC (Linux Containers) – Provides OS-level virtualization for lightweight containerized applications.
+    * rkt (Rocket) (Discontinued) – A secure, daemonless container runtime developed by CoreOS.
+    * OpenVZ – A containerization technology with strong isolation, requiring a modified Linux kernel.
+    * Singularity – A container platform designed for high-performance computing (HPC) workloads.
+    * Kata Containers – A secure runtime that combines the speed of containers with the isolation of VMs.
+    * Firecracker – A microVM-based runtime developed by AWS for lightweight and secure containers.
